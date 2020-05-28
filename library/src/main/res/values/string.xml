@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="market_not_found">شوربختانه %1$s برای تکمیل این فرآیند در دستگاه شما نصب نیست!</string>
+</resources>
