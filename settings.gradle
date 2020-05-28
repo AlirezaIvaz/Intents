@@ -1,0 +1,3 @@
+rootProject.name='Intents'
+include ':app'
+include ':library'
