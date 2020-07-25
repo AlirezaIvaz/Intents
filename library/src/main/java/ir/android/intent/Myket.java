@@ -47,6 +47,7 @@ public class Myket {
             Toast.makeText(context, String.format(context.getResources().getString(R.string.market_not_found), MARKET_NAME), Toast.LENGTH_SHORT).show();
         }
     }
+    @Deprecated
     public static void Video (Context context, String packageName) {
         try {
             Uri uri = Uri.parse("myket://video?id=" + packageName);
